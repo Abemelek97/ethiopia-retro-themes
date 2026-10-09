@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Semantic Roles
+accent              = "#B83A2A"
+selection           = "#3A342F"
+muted               = "#7D756D"
+
+# Surfaces & Backgrounds
+background          = "#1A1817"
+dark_background     = "#121110"
+darker_background   = "#0C0B0A"
+lighter_background  = "#262321"
+
+# Foregrounds & Text
+foreground          = "#EDE8D8"
+dark_foreground     = "#7D756D"
+light_foreground    = "#F4EFE2"
+bright_foreground   = "#FFFFFF"
+
+# 16-Color Terminal Palette
+black               = "#262321"
+red                 = "#B83A2A"
+green               = "#687D5A"
+yellow              = "#D4A244"
+blue                = "#526B74"
+magenta             = "#9C826A"
+cyan                = "#9CA781"
+white               = "#EDE8D8"
+
+bright_black        = "#7D756D"
+bright_red          = "#D94A38"
+bright_green        = "#7C8B5C"
+bright_yellow       = "#E6B555"
+bright_blue         = "#6B8A96"
+bright_magenta      = "#BA9E84"
+bright_cyan         = "#BAC2A8"
+bright_white        = "#FFFFFF"
